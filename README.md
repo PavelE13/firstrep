@@ -1,3 +1,3 @@
 # firstrep
-## Text - REPORT
+## Text
 ## Added text
